@@ -9,5 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "google-trends-api": "^4.9.2",
+    "groq-sdk": "^0.30.0",
+    "openai": "^5.12.2",
+    "snoowrap": "^1.23.0"
+  }
 }
